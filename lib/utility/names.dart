@@ -1,0 +1,3 @@
+String appName = 'CoinSky'; //TO MODIFY IN THE PUBSPECK.YAML FILE AS WELL
+
+
